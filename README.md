@@ -1,7 +1,7 @@
 
 # Fishing bot/script for Ark: Survival Ascended (ASA)
 
-## **Download in the [releases](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/Releases) section ---->**
+## **Download in the [releases](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/releases) section ---->**
 
 ### Features:
 - [x] **Auto enter required keys exteremly quickly (will catch any size fish)**
