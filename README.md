@@ -1,5 +1,5 @@
 
-# Fishing bot/script for Ark: Survival Ascended (ASA)
+# Ark Ascended Fishing Script (ASA)
 
 ## **Download in the [releases](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/releases) section ---->**
 
