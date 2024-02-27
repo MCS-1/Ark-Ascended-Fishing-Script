@@ -1,6 +1,8 @@
 
-# Ark Ascended Fishing Script (ASA)
+# Ark Ascended Fishing Script (ASA) ‎  ‎  ‎  ‎  ‎  ‎  ‎  ![Alt text](https://img.shields.io/github/downloads/MCS-1/Ark-Ascended-Fishing-Script/total.svg "Optional title")
 
+
+‎ 
 ## **Download in the [releases](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/releases) section ---->**
 
 ### Features:
@@ -19,3 +21,4 @@
 ![useFishDocTableSized1](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/assets/150626995/064bbde4-48ce-4769-89f3-6e8e8482af71)
 ![useFishDocLures](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/assets/150626995/2236b666-a718-4cee-9803-e193cbe12797)
 
+![Alt text](https://img.shields.io/github/downloads/MCS-1/Ark-Ascended-Fishing-Script/total.svg "Optional title")
