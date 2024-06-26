@@ -3,7 +3,7 @@
 ## **Download in the [releases](https://github.com/MCS-1/Ark-Ascended-Fishing-Script/releases) section ---->**
 
 ### Features:
-- [x] **Auto enter required keys exteremly quickly (will catch any size fish)**
+- [x] **Auto enter required keys extremely quickly (will catch any size fish)**
 - [x] **Auto cast line**
 - [x] **Ability to self-calibrate if it doesnt work properly out of the box**
 - [x] **Intuitive GUI**
